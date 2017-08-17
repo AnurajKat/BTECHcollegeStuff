@@ -1,20 +1,20 @@
-arad,366, zerind siblu timisoara
-bucharest,0,urziceni giurgiu fagaras pitesti
-craiova,160,pitesti rimnicu_vilcea dobreta
-dobreta,242,mehadia craiova
-eforie,161,hirsova
-fagaras,176,siblu bucharest
-giurgiu,77,bucharest
-hirsova,151,urziceni eforie
-lasi,226,neamt vaslui
-lugoj,244,timisoara mehadia
-mehadia,241,lugoj dobreata
-neamt,234,lasi
-oradea,380,zerind siblu
-pitesti,10,rimnicu_vilcea bucharest craiova
-rimnicu_vilcea,193,siblu pitesti craiova
-siblu,253,fagaras arad oradea rimnicu_vilcea
-timisoara,329,arad lugoj
-urziceni,80,vaslui hirsova bucharest
-vaslui,199,lasi urziceni
-zerind,374,oradea arad
+arad,0366,zerind siblu timisoara,75 140 118
+bucharest,0000,urziceni giurgiu fagaras pitesti,85 90 211 101
+craiova,0160,pitesti rimnicu_vilcea dobreta,138 148 120
+dobreta,0242,mehadia craiova,75 120
+eforie,0161,hirsova,85
+fagaras,0176,siblu bucharest,99 211
+giurgiu,0077,bucharest,90
+hirsova,0151,urziceni eforie,98 86
+lasi,0226,neamt vaslui,87 92
+lugoj,0244,timisoara mehadia,111 70
+mehadia,0241,lugoj dobreta,70 75
+neamt,0234,lasi,87
+oradea,0380,zerind siblu,71 151
+pitesti,0010,rimnicu_vilcea bucharest craiova,97 101 138
+rimnicu_vilcea,0193,siblu pitesti craiova,80 97 148
+siblu,0253,fagaras arad oradea rimnicu_vilcea,99 140 151 80
+timisoara,0329,arad lugoj,118 111
+urziceni,0080,vaslui hirsova bucharest,140 98 85
+vaslui,0199,lasi urziceni,92 142
+zerind,0374,oradea arad,71 75
