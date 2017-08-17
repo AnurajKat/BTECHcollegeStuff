@@ -1,0 +1,20 @@
+arad,366, zerind siblu timisoara
+bucharest,0,urziceni giurgiu fagaras pitesti
+craiova,160,pitesti rimnicu_vilcea dobreta
+dobreta,242,mehadia craiova
+eforie,161,hirsova
+fagaras,176,siblu bucharest
+giurgiu,77,bucharest
+hirsova,151,urziceni eforie
+lasi,226,neamt vaslui
+lugoj,244,timisoara mehadia
+mehadia,241,lugoj dobreata
+neamt,234,lasi
+oradea,380,zerind siblu
+pitesti,10,rimnicu_vilcea bucharest craiova
+rimnicu_vilcea,193,siblu pitesti craiova
+siblu,253,fagaras arad oradea rimnicu_vilcea
+timisoara,329,arad lugoj
+urziceni,80,vaslui hirsova bucharest
+vaslui,199,lasi urziceni
+zerind,374,oradea arad
