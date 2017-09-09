@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.6)
+project(DC_EXPERIMENTS)
+set(CMAKE_CXX_STANDARD 11)
+add_executable(Token_Ring_Mutex_Simulation token_ring_mutex.cpp)
+add_executable(Lamport_Clock_Algo_Simulation lamportClockSync_MayBeComplete.cpp)
