@@ -8,6 +8,7 @@
 *	machines emulated as threads. independent of each other
 *	one struct as critical resource. 
 *	random bool value generator to emulate random need of resource.
+*	the need for resource changes after passing on the token to the next machine.
 */
 struct resource		//critical resource struct
 {
