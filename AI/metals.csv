@@ -1,0 +1,15 @@
+Name,Density,Magnetic,Colour,Melting_point,Type
+Aluminum,2.7,no,Shiny grey,658,Element
+Bronze,7.58,yes,brown,850,Alloy
+Brass,8.73,no,yellow,940,Alloy
+Copper,8.94,no,light red,1083,Element
+Gold,19.3,no,shiny yellow,1064.18,Element
+Iron,7.87,yes,Dull grey,1530,Element
+Lead,10.6,no,dull grey,327,Element
+Magnesium,1.738,no,grey,650,Element
+Nickel,8.902,no,shiny silver,1452,Element
+Tin,7.365,no,shiny grey,231,Element
+Titanium,4.506,no,shiny grey,1795,Element
+Silver,10.49,no,shiny grey,961.78,Element
+Zinc,7.14,no,dull grey,419,Element
+Steel,7.86,yes,shiny silver,1400,Alloy
