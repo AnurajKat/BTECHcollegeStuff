@@ -1,9 +1,13 @@
 # collegeStuff
 experiments done in college
 
-## AI
-  ### 1. experiment 4 -> best first search
+## Artificial Intelligence
+  ### 1. Best first search
+  ### 2. Simple expert system. Metal identification
+  ### 3. AI assignment. AI playing Grand Theft Auto V. derived/cloned from https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/
   
-## DC
-  ### 1. experiment ? -> lamport's clock sync algorithm. - Documentation incomplete.
+## Distributed Computing
+  ### 1. lamport's clock sync algorithm.
+  ### 2. Token ring with mutual exclusion.
+  ### 3. Berkeley Clock sync algorithm
 
